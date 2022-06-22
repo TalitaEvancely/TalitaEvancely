@@ -3,7 +3,7 @@
 
 **
 
-- ⚙ Atualmente trabalho em projetos pessoais com linguagens Front-end
+- ⚙ Atualmente trabalho em projetos pessoais e freelancer com linguagens Front-end
 - 🌱 Estou estudando HTML, CSS, JavaScript, Bootstrap e ReactJS
 
 <div align="center">
