@@ -4,7 +4,7 @@
 **
 
 - ⚙ Atualmente trabalho em projetos pessoais e freelancer com linguagens Front-end
-- 🌱 Estou estudando HTML, CSS, JavaScript, Bootstrap e ReactJS
+- 🌱 Estou sempre em evolução com HTML, CSS, JavaScript, Bootstrap e ReactJS
 
 <div align="center">
   <a href="https://github.com/TalitaEvancely">
