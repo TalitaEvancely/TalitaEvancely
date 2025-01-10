@@ -4,7 +4,8 @@
 **
 
 - ⚙ Atualmente trabalho em projetos pessoais e freelancer.
-- 🌱 Estou sempre em evolução com HTML, CSS, JavaScript, Bootstrap e ReactJS
+- Eu ja estudei e faço alguns projetos em HTML, CSS, JavaScript, Bootstrap e ReactJS
+- 🌱No momento, estou sempre em evolução em kotlin.
 
 <div align="center">
   <a href="https://github.com/TalitaEvancely">
